@@ -1,5 +1,7 @@
 # 别踩白块
 
+下载链接https://github.com/user-attachments/files/25002196/v1.0.zip
+
 点开.exe时注意确保带上了耳机, 或处于声音可以外放的环境[doge]
 只能点最下方的黑块哦~
 
